@@ -1,0 +1,47 @@
+body
+{
+  background-color: #272343;
+}
+
+.container
+{
+  width: 70%;
+  text-align: center;
+  margin: auto;
+}
+
+.dice
+{
+  display: inline-block;
+  margin: 0 5%;
+}
+
+h1
+{
+  margin: 20px;
+  color: #ffffff;
+  text-shadow: 5px 0px #000;
+  font-family: "Alata", sans-serif;
+  font-size: 5rem;
+}
+
+p
+{
+  color: #e3f6f5;
+  font-family: "Alata", sans-serif;
+  font-size: 2rem;
+}
+}
+
+img
+{
+  width: 80%;
+}
+
+footer
+{
+  margin:20px;
+  text-align: center;
+  font-family: "Indie Flower", cursive;
+  color: #bae8e8;
+}
